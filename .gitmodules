@@ -1,0 +1,21 @@
+[submodule "DataTables"]
+	path = DataTables
+	url = git://github.com/DataTables/DataTables.git
+[submodule "facebox"]
+	path = facebox
+	url = git://github.com/defunkt/facebox.git
+[submodule "Pajinate"]
+	path = Pajinate
+	url = git://github.com/wesnolte/Pajinate.git
+[submodule "simplemodal"]
+	path = simplemodal
+	url = git://github.com/ericmmartin/simplemodal.git
+[submodule "jquery-expander"]
+	path = jquery-expander
+	url = git://github.com/kswedberg/jquery-expander.git
+[submodule "jquery-waypoints"]
+	path = jquery-waypoints
+	url = git://github.com/imakewebthings/jquery-waypoints.git
+[submodule "quicksearch"]
+	path = quicksearch
+	url = git://github.com/riklomas/quicksearch.git
