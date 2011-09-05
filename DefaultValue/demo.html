@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<title>
+                    jQuery-Plugin "DefaultValue" Demo
+		</title>
+                <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+                 <script type="text/javascript">
+jQuery.fn.DefaultValue = function(){return this.each(function(){var flied=this, value=this.value=this.title;$(this).focus(function(){(flied.value==value||flied.value=='')?flied.value='':''}).blur(function(){(flied.value==value||flied.value=='')?flied.value=value:''}).parents("form").each(function(){$(this).submit(function(){(flied.value==value)?flied.value='':''});});});};
+$(document).ready(function(){
+      $("input:text, textarea").DefaultValue();
+});
+</script>
+	</head>
+	<body>
+		<div class="container">
+                  <input type="text" title="title is default value" /><br />
+                  <textarea title="title is default value" ></textarea>
+                </div>
+	</body>
+</html>

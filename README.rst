@@ -70,3 +70,5 @@ Sept. 5, 2011
 - `jquery-waypoints <https://github.com/imakewebthings/jquery-waypoints>`_: Waypoints is a small jQuery plugin that makes it easy to execute a function whenever you scroll to an element.
 
 - `Simple jQuery Photo Slide Show <http://www.queness.com/resources/html/slideshow2/index.html>`_ 
+
+- `DefaultValue <http://blog.lxneng.com/?p=172>`_
