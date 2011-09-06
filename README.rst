@@ -1,6 +1,20 @@
 A collection of "must have" jQuery plugins
 ============================================
 
+Sept. 6, 2011
+---------------------
+
+- `livequery <https://github.com/brandonaaron/livequery>`_: Live Query utilizes the power of jQuery selectors by binding events or firing callbacks for matched elements auto-magically, even after the page has been loaded and the DOM updated. 
+
+- `Placeholder-jQuery-Plugin <https://github.com/mathiasbynens/Placeholder-jQuery-Plugin>`_: A jQuery plugin which enables HTML5 placeholder behavior for browsers that aren’t trying hard enough yet 
+
+- `jGrowl <http://stanlemon.net/projects/jgrowl.html>`_: jGrowl is a jQuery plugin that raises unobtrusive messages within the browser, similar to the way that OS X's Growl Framework works.
+
+- `jquery-flexselect <https://github.com/rmm5t/jquery-flexselect>`_: A jQuery plugin that turns regular select boxes into Quicksilver-like, flex-matching, incremental-finding controls. 
+
+- `jquery-timeago <https://github.com/rmm5t/jquery-timeago>`_: Timeago is a jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago"). 
+
+
 Sept. 5, 2011
 ---------------------
 

@@ -19,3 +19,12 @@
 [submodule "quicksearch"]
 	path = quicksearch
 	url = git://github.com/riklomas/quicksearch.git
+[submodule "jquery-timeago"]
+	path = jquery-timeago
+	url = git://github.com/rmm5t/jquery-timeago.git
+[submodule "jquery-flexselect"]
+	path = jquery-flexselect
+	url = git://github.com/rmm5t/jquery-flexselect.git
+[submodule "Placeholder-jQuery-Plugin"]
+	path = Placeholder-jQuery-Plugin
+	url = git://github.com/mathiasbynens/Placeholder-jQuery-Plugin.git
