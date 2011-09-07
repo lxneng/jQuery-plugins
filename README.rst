@@ -1,6 +1,11 @@
 A collection of "must have" jQuery plugins
 ============================================
 
+Sept. 7, 2011
+---------------------
+
+- `jquery-hotkeys <https://github.com/github/jquery-hotkeys>`_
+
 Sept. 6, 2011
 ---------------------
 

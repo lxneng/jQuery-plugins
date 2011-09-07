@@ -28,3 +28,6 @@
 [submodule "Placeholder-jQuery-Plugin"]
 	path = Placeholder-jQuery-Plugin
 	url = git://github.com/mathiasbynens/Placeholder-jQuery-Plugin.git
+[submodule "jquery-hotkeys"]
+	path = jquery-hotkeys
+	url = git://github.com/github/jquery-hotkeys.git
