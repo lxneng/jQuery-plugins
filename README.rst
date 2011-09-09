@@ -1,6 +1,11 @@
 A collection of "must have" jQuery plugins
 ============================================
 
+Sept. 9, 2011
+---------------------
+
+- `AnythingSlider <https://github.com/ProLoser/AnythingSlider>`_: This jQuery plugin was created by Chris Coyier, based on work by Remy Sharp, and improved by Doug Neiner. 
+
 Sept. 7, 2011
 ---------------------
 

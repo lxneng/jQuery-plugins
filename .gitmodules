@@ -31,3 +31,6 @@
 [submodule "jquery-hotkeys"]
 	path = jquery-hotkeys
 	url = git://github.com/github/jquery-hotkeys.git
+[submodule "AnythingSlider"]
+	path = AnythingSlider
+	url = git://github.com/ProLoser/AnythingSlider.git
