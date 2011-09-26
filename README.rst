@@ -1,6 +1,11 @@
 A collection of "must have" jQuery plugins
 ============================================
 
+Sept. 26, 2011
+---------------------
+
+- `tag-it <http://aehlke.github.com/tag-it/>`_: A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete. 
+
 Sept. 9, 2011
 ---------------------
 
