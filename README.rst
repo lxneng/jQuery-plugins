@@ -1,6 +1,11 @@
 A collection of "must have" jQuery plugins
 ============================================
 
+Oct. 19, 2011
+---------------------
+
+- ` jquery_jeditable <https://github.com/tuupola/jquery_jeditable>`_: jQuery edit in place plugin. Extendable via plugin architecture. Plugins for plugin. Really.
+
 Sept. 26, 2011
 ---------------------
 
