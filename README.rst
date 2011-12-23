@@ -2,6 +2,11 @@ A collection of "must have" jQuery plugins
 ============================================
 
 
+Dec. 23, 2011
+---------------------
+
+- `Cached Commons <http://cachedcommons.org/>`_: API for Common Javascripts and Stylesheets Cached and Optimized
+
 Dec. 21, 2011
 ---------------------
 
